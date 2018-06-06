@@ -2,7 +2,7 @@ Toàn bộ các file code là tôi viết tay bằng notepad.
 
 Hướng dẫn sử dụng souce code : 
 
-1. Insert file DB
+1. Insert file DB user.sql vào Database
 3. Copy thư mục code vào thư mục dự án giả lập.
 2. Chỉnh sửa file connect_db.php
 + Sửa thông tin dòng : $this->vDbConnect = new mysqli('localhost','root','','api_login');
