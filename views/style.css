@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Phan Login*/
+.form-login{
+	font:14px Verdana, Geneva, sans-serif;
+	color:#06F;
+	width:700px;
+	margin:auto;
+}
+.form-login fieldset{
+	border:1px solid #06F;	
+}
+.form-login legend{
+	font-weight:bold;	
+}
+.form-login label{
+	width:120px;
+	float:left;
+	font-weight:bold;
+	padding-left:20px;
+}
+.form-login input,select,textarea{
+	border:1px solid #06F;
+	margin-bottom:3px;
+}
+
+/* Phan index,list table */
+table.index td.title{
+	border:1px solid #0C6;
+	background:#0C3;
+	font-weight:bold;
+}
+table.index td{
+	border:1px solid #0C3;
+	text-align:center;
+	padding:2px;	
+}
+table.index a{
+	text-decoration:none;
+	color:#06F;
+}
+table.index a:hover{
+	color:#F30;	
+}
+

@@ -1,0 +1,10 @@
+.form-login-container {
+    width: 500px;
+    border: 1px dotted red;
+    border-radius: 2px;
+}
+input {
+    border-radius: 2px;
+    border: 1px solid;
+	height: 20px;
+}
